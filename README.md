@@ -1,8 +1,10 @@
-# Codveda Beginner Tasks - Data Science Internship
+# Codveda Technologies Data Science Internship
 
-This repository contains beginner-level tasks completed as part of my Data Science Internship at **Codveda Technologies**.
+This repository contains the tasks completed as part of my Data Science Internship at **Codveda Technologies**.
 
-## ✅ Task 1: Web Scraping with Python
+## Beginner Tasks
+
+### ✅ Task 1: Web Scraping with Python
 
 Scraped book data from [Books to Scrape](http://books.toscrape.com) using `requests`, `BeautifulSoup`, and saved results in CSV using `pandas`.
 
