@@ -9,9 +9,13 @@ As part of my Data Science Internship at **Codveda Technologies**, this task inv
 - **Summary Statistics**: Mean, median, variance of key features
 - **Visualizations**:
   - Histograms for Age & Fare
+    ![Histograms](B3-1.png)
   - Boxplots for spread & outliers
+    ![Boxplots](B3-2.png) 
   - Scatter plot for Age vs Fare (colored by Survival)
+    ![Scatters](B3-3.png)
   - Correlation heatmap for numerical features
+    ![Heatmap](B3-4.png)
 - **Insights**: Observed patterns in survival, ticket prices, and passenger demographics
 
 ## 🧰 Tools Used
@@ -22,7 +26,7 @@ As part of my Data Science Internship at **Codveda Technologies**, this task inv
 
 ## 📁 Output
 - Notebook: `titanic_eda.ipynb`
-- Plots: Visualization plots in `/plots/`
+- Plots: Visualization plots
 
 ---
 
